@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michael71161
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python full stack bootcamp 
-- 💞️ I’m looking to collaborate on web application development 
+- 👀 I’m interested in tech ,software and hardware :))
+- 🌱 I finished Python fullstack web development and right now keep learning and programming 
+- 💞️ I’m looking to collaborate on web application development , Python development 
 - 📫 How to reach me : michael71161@ gmail.com  /  linkdin:www.linkedin.com/in/michaelmog
 
 
